@@ -1,0 +1,24 @@
+{
+  "name": "pgats-programacao-automacao-trabalho-final",
+  "version": "1.0.0",
+  "description": "// Anotaçoes",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NataliaFerreiraVentura/PGATS-programacao-automacao-trabalho-final.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NataliaFerreiraVentura/PGATS-programacao-automacao-trabalho-final/issues"
+  },
+  "homepage": "https://github.com/NataliaFerreiraVentura/PGATS-programacao-automacao-trabalho-final#readme",
+  "devDependencies": {
+    "mocha": "^11.5.0"
+  }
+}
