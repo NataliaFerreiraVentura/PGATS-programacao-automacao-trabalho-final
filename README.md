@@ -1,6 +1,6 @@
 # Trabalho Final Natalia Ferreira
 
-Este repositório contém o trabalho final da disciplina **Programação para Automação de Testes**. O objetivo é desenvolver funções JavaScript que passem nos testes unitários definidos, aplicando conceitos como funções puras, estruturas condicionais, lógica assíncrona e boas práticas de codificação.
+Este repositório reúne o trabalho final da disciplina Programação para Automação de Testes, com o objetivo de desenvolver funções em JavaScript que atendam aos testes unitários propostos, utilizando estruturas condicionais, lógica assíncrona e boas práticas de programação.
 
 ## 📁 Estrutura do Repositório
 

@@ -15,5 +15,5 @@ function contarVogais(texto) {
     return contadorVogais
 }
 
-console.log(contarVogais('Nathanael Santana'))
-console.log(contarVogais('Naty ferreira'))
+console.log(contarVogais('Nathanael Santana')) // Saída esperada: 6
+console.log(contarVogais('Naty ferreira'))  // Saída esperada: 5
