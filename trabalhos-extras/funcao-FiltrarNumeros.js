@@ -8,4 +8,4 @@ function filtrarNumeros(lista) {
 const entrada = [1, 'a', 3, 'b', 5, 'teste', 7]
 const resultado = filtrarNumeros(entrada)
 
-console.log(resultado) 
+console.log(resultado)  // Saída esperada: [1, 3, 5, 7]
