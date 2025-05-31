@@ -37,7 +37,6 @@ npx mocha trabalho-final/trabalho-final.js
 
 ### 🔤 funcao-ContadorDeVogais.js
 Conta quantas vogais (`a`, `e`, `i`, `o`, `u`) existem em um texto.  
-Ignora letras maiúsculas ou acentuadas.
 
 #### Exemplo de uso:
 ```js
